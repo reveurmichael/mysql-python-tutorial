@@ -1,4 +1,4 @@
-# MySQL and Python Tutorial 
+# MySQL, PhpMyAdmin and Python Tutorial 
 
 ## Install MySQL on cloud virtual machine with Docker
 
